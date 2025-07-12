@@ -351,7 +351,7 @@ const App: React.FC = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: `url('image2.jpg?auto=compress&cs=tinysrgb&w=1920&h=1080')`
+          backgroundImage: `url('/image2.jpg?auto=compress&cs=tinysrgb&w=1920&h=1080')`
         }}
       />
       
