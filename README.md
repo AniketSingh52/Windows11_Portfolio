@@ -47,3 +47,6 @@ npm run dev
 # Step 5: Build for production in the dist/ directory
 npm run build
 ```
+## 📸 Preview
+
+![Windows 11 Portfolio Preview](Windows_11_Portfolio.png)
